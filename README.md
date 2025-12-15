@@ -1,6 +1,6 @@
 # Midi map and mixer template
 
-## WARNING: This is AS-IS and does come with any support
+## WARNING: This is AS-IS and does not come with any support
 A midi map for Traktor specifically and a template file with a mixer midi ready for Traktor or other dj software. 
 
 I made this to compliment my X1 mk-3 because I didn't have a soundcard mixer or z-1 to go with it, and I dont like the 4th knob as the faders. So I made one with Lemur. Since there is a limitation in Lemur to only allow wide screen I originally had this as a nice long mixer with long faders. Nope, so we have this wide version. As of now, I do not plan on updating these files beyond this version for various reasons.
