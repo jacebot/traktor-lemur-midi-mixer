@@ -11,7 +11,7 @@ You will want to make sure Lemur is pumping out over midi 0 and midi 1 for both 
 **Template features are:**
 
 - 4 fader channels
-- FX section
+- Color FX/Filter section
 - Gains and cue buttons
 - Working Fader and Master L/R LED's (Could be refined but good > perfect. Inspired by Traxus)
 - EQ with kill switches
